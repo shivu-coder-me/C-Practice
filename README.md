@@ -1,2 +1,2 @@
 # C ++ -Practice
-Here you cam see the beginner friendly C and C++  programs
+Here you can see the beginner friendly C and C++  programs
