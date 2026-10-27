@@ -4,7 +4,8 @@ using namespace std;
 class student
 {
     protected:
-    int rollno,phoneno;
+    int rollno;
+    double phoneno;
     string name;
     public:
     void details()
