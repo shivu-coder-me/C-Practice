@@ -3,7 +3,7 @@
 using namespace std;
 class student
 {
-    protected;
+    protected:
     int rollno,phoneno;
     string name;
     public:
